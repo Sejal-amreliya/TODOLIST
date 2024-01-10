@@ -8,11 +8,12 @@ Delete Task: Delete tasks from the list individually.
 Clear All Tasks: Remove all tasks from the list.
 Clear Completed Tasks: Remove only completed tasks from the list.
 Task Count: Display the total number of tasks in the list.
+
 How to Use
 Clone this repository or download the files.
 bash
 Copy code
-git clone https://github.com/your-username/vanilla-js-todo-list.git
+git https://github.com/Sejal-amreliya/TODOLIST
 Open index.html in your browser.
 
 Use the input field to add new tasks to the list.
