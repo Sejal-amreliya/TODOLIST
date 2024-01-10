@@ -29,11 +29,8 @@ Folder Structure
 index.html: Main HTML file for the Todo List.
 style.css: CSS file for styling the Todo List.
 script.js: JavaScript file containing the logic for Todo List functionality.
-Contributing
-Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
 
 If you find any issues or have suggestions for improvements, please open an issue.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-HTML,CSS,JAVASCRIPT
+Deploy Link:
+https://659e491189a086b61ed9ac78--adorable-syrniki-9a083a.netlify.app/
